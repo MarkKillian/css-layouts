@@ -1,0 +1,108 @@
+.header{
+  height: 100px;
+  width: 100%;
+  background-color: orange;
+}
+
+.background{
+  height: 600px;
+  width: 100%;
+  background-color: gray;
+  overflow: auto;
+}
+div .topRow{
+  height:50%;
+  overflow: auto;
+}
+
+div .widget1{
+  background-color: red;
+  height:150px;
+  width: 150px;
+  margin: 20px 10px 20px 20px;
+  float: left;
+}
+
+div .widget2{
+  background-color: red;
+  height:150px;
+  width: 150px;
+  margin: 20px 10px 10px 20px;
+  float: left;
+}
+
+div .widgetBlue1{
+  background-color: blue;
+  height:150px;
+  width: 150px;
+  margin: 20px 10px 10px 20px;
+  float: left;
+}
+
+div .gadget1{
+  background-color: purple;
+  height:150px;
+  width: 150px;
+  margin: 20px 10px 10px 20px;
+  float: left;
+}
+
+div .widgetBlue2{
+  background-color: blue;
+  height:150px;
+  width: 150px;
+  margin: 20px 20px 10px 20px;
+  float: left;
+}
+
+div .bottomRow{
+  height:50%;
+  overflow: auto;
+}
+
+div .widget3{
+  background-color: red;
+  height:100px;
+  width: 100px;
+  margin: 10px;
+  float: left;
+}
+
+div .gadgetBlue{
+  background-color: black;
+  height:100px;
+  width: 100px;
+  margin: 10px;
+  float: left;
+}
+
+div .widget4{
+  background-color: red;
+  height:100px;
+  width: 100px;
+  margin: 10px;
+  float: left;
+}
+
+div .gadget2{
+  background-color: purple;
+  height:100px;
+  width: 100px;
+  margin: 10px;
+  float: left;
+}
+
+div .widget5{
+  background-color: red;
+  height:100px;
+  width: 100px;
+  margin: 10px;
+  float: left;
+}
+
+.footer{
+  height: 100px;
+  width: 100%;
+  background-color: green;
+  clear: both;
+}
