@@ -1,9 +1,9 @@
-.header{
+header{
   height: 100px;
   width: 100%;
   background-color: red;
 }
-.sideBar{
+aside{
   height: 500px;
   width:25%;
   background-color: orange;
@@ -15,7 +15,7 @@
   background-color: blue;
   float: right;
 }
-.footer{
+footer{
   height: 100px;
   width: 100%;
   background-color: green;

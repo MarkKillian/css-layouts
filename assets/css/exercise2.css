@@ -1,4 +1,4 @@
-.header{
+header{
   height: 100px;
   width: 100%;
   background-color: red;
@@ -11,7 +11,7 @@
   float: left;
   z-index: 10;
 }
-.navigation{
+nav{
   margin: 10px 10px 10px 0px;
   width: 73.5%;
   height: 80px;
@@ -19,19 +19,19 @@
   float: right;
   z-index: 10;
 }
-.sideBar{
+aside{
   height: 500px;
   width:25%;
   background-color: orange;
   float: left;
 }
-.content{
+main{
   height: 500px;
   width: 75%;
   background-color: blue;
   float: right;
 }
-.footer{
+footer{
   height: 100px;
   width: 100%;
   background-color: green;
